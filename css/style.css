@@ -116,7 +116,21 @@ p {
   width: calc(25% - 20px - 4px);
   margin: 10px;
 }
-
+.main .contact_form .field {
+  margin-bottom: 20px;
+}
+.main .contact_form input {
+  font-size: 18px;
+  padding: 10px 20px;
+}
+.main .contact_form .button {
+  border: 0;
+  background-color: #1baa16;
+  color: white;
+  padding: 10px 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+}
 .footer {
   background-color: #333;
   color: #fff;
